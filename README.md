@@ -1,6 +1,6 @@
 # HR Analytics: Employee Attrition Analysis
 
-This project analyzes employee attrition using HR, survey, manager, and attendance data for 4,410 employees. The goal was to identify patterns associated with employee turnover and understand how factors such as job satisfaction, income, promotion timing, and attendance behavior relate to retention risk. :contentReference[oaicite:2]{index=2}
+This project analyzes employee attrition using HR, survey, manager, and attendance data for 4,410 employees. The goal was to identify patterns associated with employee turnover and understand how factors such as job satisfaction, income, promotion timing, and attendance behavior relate to retention risk.
 
 ## Project Overview
 
